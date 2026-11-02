@@ -1,0 +1,5 @@
+Cluster,customers,avg_tenure,avg_monthly,pct_month_to_month,churn_rate,name
+0,1582,61.157,90.651,0.014,0.096,"Loyal, premium, contracted"
+1,1695,11.269,34.957,0.838,0.27,"New, budget, month-to-month"
+2,2640,22.233,83.598,0.921,0.469,"Mid-tenure, premium, month-to-month"
+3,1126,47.463,29.091,0.001,0.02,"Loyal, budget, contracted"

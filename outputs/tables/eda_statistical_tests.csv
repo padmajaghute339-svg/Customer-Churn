@@ -1,0 +1,10 @@
+variable,test,statistic,p_value,significant_at_0.05
+gender,chi-square,0.48,0.48657873605618596,False
+Partner,chi-square,158.73,2.1399113440759935e-36,True
+Dependents,chi-square,189.13,4.9249216612154196e-43,True
+SeniorCitizen,chi-square,159.43,1.510066805092378e-36,True
+tenure,Mann-Whitney U,2515538.0,2.419635517951866e-208,True
+Contract,chi-square,1184.6,5.863038300673391e-258,True
+PaymentMethod,chi-square,648.14,3.6823546520097993e-140,True
+MonthlyCharges,Mann-Whitney U,6003125.5,3.311627651988585e-54,True
+InternetService,chi-square,732.31,9.571788222840544e-160,True

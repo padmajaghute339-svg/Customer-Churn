@@ -1,0 +1,5 @@
+model,test_auc
+Logistic Regression,0.8378542457826346
+Decision Tree,0.8255625306776202
+Random Forest,0.8466571081660597
+Gradient Boosting,0.8443927768735953
